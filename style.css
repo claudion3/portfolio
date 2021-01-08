@@ -294,7 +294,7 @@ menu {
 .skills .skills-content {
 	color: rgb(232, 235, 238);
 	width: 100%;
-	padding: 20px;
+	padding: 10px;
 	margin: 0 auto;
 	font-family: "Arial", sans-serif;
 	line-height: 1.5;
@@ -302,7 +302,7 @@ menu {
 }
 .skills .skills-content .cont {
 	width: 900px;
-	margin: 2px 1px 1px 3px;
+	margin: 2px 1px 1px -40px;
 	padding: 2px 2px 2px 61px;
 	font-size: 15px;
 }
